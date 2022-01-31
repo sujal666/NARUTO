@@ -1,0 +1,271 @@
+body{
+    background: #ff005c;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+
+
+.box{
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1250px;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    display: flex;
+    transition: .5s;
+}
+.box :hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,.5);
+}
+.box .imgbx{
+    width: 150px;
+    flex:0 0 150px;
+}
+.box .imgbx img{
+    max-width: 100%;
+}
+.box .content{
+    padding-left: 20px;
+}
+.box .content h2{
+    margin: 0;
+    padding: 0;
+    color: #ff005c; 
+    font-size: 22px;
+}
+.box .content p{
+     margin: 0;
+     padding: 10px 0 0;
+     text-align: justify;
+}
+.No2{
+    position: absolute ;
+    top: 120%;
+    left: 25%;
+    font-size: 30px;
+   
+}
+.box1{ position: absolute;
+    top: 200%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1250px;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    display: flex;
+    transition: .5s;
+}
+
+.box1 :hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,.5);
+}
+
+
+.box2{ position: absolute;
+    top: 350%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1250px;
+    padding: 20px;
+    box-sizing: border-box;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+    display: flex;
+    transition: .5s;
+}
+
+.box2 :hover{
+    box-shadow: 0 15px 30px rgba(0,0,0,.5);}
+
+    .box2 .imgbx2{
+        width: 150px;
+        flex:0 0 150px;
+    }
+    .box2 .imgbx2 img{
+        max-width: 100%;
+    }
+    .box2 .content2{
+        padding-left: 20px;
+    }
+    .box2 .content2 h2{
+        margin: 0;
+        padding: 0;
+        color: #ff005c; 
+        font-size: 22px;
+    }
+    .box2 .content2 p{
+         margin: 0;
+         padding: 10px 0 0;
+         text-align: justify;
+    }
+      
+
+    .box3{ position: absolute;
+        top: 120%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        width: 1250px;
+        padding: 20px;
+        box-sizing: border-box;
+        background: #fff;
+        border-radius: 4px;
+        box-shadow: 0 5px 15px rgba(0,0,0,.5);
+        display: flex;
+        transition: .5s;
+    }
+    
+    .box3 :hover{
+        box-shadow: 0 15px 30px rgba(0,0,0,.5);}       
+
+
+        .box4{ position: absolute;
+            top: 190%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            width: 1250px;
+            padding: 20px;
+            box-sizing: border-box;
+            background: #fff;
+            border-radius: 4px;
+            box-shadow: 0 5px 15px rgba(0,0,0,.5);
+            display: flex;
+            transition: .5s;
+        }
+        
+        .box4 :hover{
+            box-shadow: 0 15px 30px rgba(0,0,0,.5);}       
+
+
+
+            .box5{ position: absolute;
+                top: 200%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+                width: 1250px;
+                padding: 20px;
+                box-sizing: border-box;
+                background: #fff;
+                border-radius: 4px;
+                box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                display: flex;
+                transition: .5s;
+            }
+            
+            .box5 :hover{
+                box-shadow: 0 15px 30px rgba(0,0,0,.5);}       
+
+
+
+                .box6{ position: absolute;
+                    top: 130%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    width: 1250px;
+                    padding: 20px;
+                    box-sizing: border-box;
+                    background: #fff;
+                    border-radius: 4px;
+                    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                    display: flex;
+                    transition: .5s;
+                }
+                
+                .box6:hover{
+                    box-shadow: 0 15px 30px rgba(0,0,0,.5);}       
+       
+                    
+                .box7{ position: absolute;
+                    top: 170%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    width: 1250px;
+                    padding: 20px;
+                    box-sizing: border-box;
+                    background: #fff;
+                    border-radius: 4px;
+                    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                    display: flex;
+                    transition: .5s;
+                }
+                
+                .box7:hover{
+                    box-shadow: 0 15px 30px rgba(0,0,0,.5);}    
+
+
+
+                    .box8{ position: absolute;
+                        top: 150%;
+                        left: 50%;
+                        transform: translate(-50%,-50%);
+                        width: 1250px;
+                        padding: 20px;
+                        box-sizing: border-box;
+                        background: #fff;
+                        border-radius: 4px;
+                        box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                        display: flex;
+                        transition: .5s;
+                    }
+                    
+                    .box8:hover{
+                        box-shadow: 0 15px 30px rgba(0,0,0,.5);}    
+
+                        
+                .box9{ position: absolute;
+                    top: 190%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    width: 1250px;
+                    padding: 20px;
+                    box-sizing: border-box;
+                    background: #fff;
+                    border-radius: 4px;
+                    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                    display: flex;
+                    transition: .5s;
+                }
+                
+                .box9:hover{
+                    box-shadow: 0 15px 30px rgba(0,0,0,.5);}    
+
+
+                    
+                .box10{ position: absolute;
+                    top: 120%;
+                    left: 50%;
+                    transform: translate(-50%,-50%);
+                    width: 1250px;
+                    padding: 20px;
+                    box-sizing: border-box;
+                    background: #fff;
+                    border-radius: 4px;
+                    box-shadow: 0 5px 15px rgba(0,0,0,.5);
+                    display: flex;
+                    transition: .5s;
+                }
+                
+                .box10:hover{
+                    box-shadow: 0 15px 30px rgba(0,0,0,.5);}    
